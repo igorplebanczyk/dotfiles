@@ -1,5 +1,5 @@
-# Dotfiles
+# .dotfiles
 
-My personal dotfiles repo using the Nix package manager.
+⚠️ Work in progress ⚠️
 
-## ⚠️ Work in progress ⚠️
+My personal dotfiles system relying on the Nix package manager.
